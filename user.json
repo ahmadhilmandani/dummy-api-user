@@ -1,56 +1,54 @@
-{
-  "users": [
-    {
-      "id": "1",
-      "username": "test",
-      "email": "test@example.com",
-      "password": "123",
-      "name": "testing user",
-      "lastName": "Doe"
-    },
-    {
-      "id": "2",
-      "username": "ahmadhilman",
-      "email": "ahmad.hilman@example.com",
-      "password": "123",
-      "name": "ahmad hilman"
-    },
-    {
-      "id": "3",
-      "username": "riskibudiman",
-      "email": "riski.jones@example.com",
-      "password": "123",
-      "name": "Riski Budiman Nusantara"
-    },
-    {
-      "id": "60cd",
-      "name": "hilman js",
-      "email": "hilmanjs@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "ea97",
-      "name": "aku",
-      "email": "aku@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "dd3a",
-      "name": "berhasil",
-      "email": "berhasil@examp.com",
-      "password": "123"
-    },
-    {
-      "id": "37b3",
-      "name": "test load",
-      "email": "testload@gmail.com",
-      "password": "1"
-    },
-    {
-      "id": "f39a",
-      "name": "coba",
-      "email": "coba@gmail.com",
-      "password": "123"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "username": "test",
+    "email": "test@example.com",
+    "password": "123",
+    "name": "testing user",
+    "lastName": "Doe"
+  },
+  {
+    "id": "2",
+    "username": "ahmadhilman",
+    "email": "ahmad.hilman@example.com",
+    "password": "123",
+    "name": "ahmad hilman"
+  },
+  {
+    "id": "3",
+    "username": "riskibudiman",
+    "email": "riski.jones@example.com",
+    "password": "123",
+    "name": "Riski Budiman Nusantara"
+  },
+  {
+    "id": "60cd",
+    "name": "hilman js",
+    "email": "hilmanjs@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": "ea97",
+    "name": "aku",
+    "email": "aku@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": "dd3a",
+    "name": "berhasil",
+    "email": "berhasil@examp.com",
+    "password": "123"
+  },
+  {
+    "id": "37b3",
+    "name": "test load",
+    "email": "testload@gmail.com",
+    "password": "1"
+  },
+  {
+    "id": "f39a",
+    "name": "coba",
+    "email": "coba@gmail.com",
+    "password": "123"
+  }
+]
